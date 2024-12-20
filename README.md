@@ -1,5 +1,5 @@
 ## 🥷🏻 telegram_stealer
-steals windows telegram session and send it to your discord via webhook **(made in educational purposes)**
+steals windows telegram session and sends it to your discord via webhook **(made in educational purposes)**
 
 ![](https://i.imgur.com/OgE32sK.png)
 
